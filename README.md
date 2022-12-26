@@ -1,2 +1,2 @@
-# Aula_guanabara
- testando o software de gestão do git e github
+# Aula Curso em Vídeo_guanabara
+ Teestando o software de gestão do git e github
